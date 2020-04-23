@@ -1,5 +1,3 @@
-# Cheat Sheet
----
 * [All](http://overapi.com/)
 * [HTML](http://html5index.org/)
 * [JavaScript](http://overapi.com/javascript)
